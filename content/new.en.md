@@ -78,7 +78,7 @@ All Ergohaven keyboards use the standard **MX** mount, ensuring compatibility wi
 
 ### Form factor: case
 
-{{< tabs items="Flat,Tented" >}}
+{{< tabs items="Flat,Curved" >}}
   {{< tab >}}
 **Traditional design**: both halves lie in the same horizontal plane. Simple to manufacture and maintain. A good starting point.
 
@@ -160,7 +160,7 @@ For split keyboard beginners, starting with the **60% format** is recommended. I
 
 {{< cards >}}
   {{< card link="https://eh.works/k03" title="K:03" subtitle="60%, wired or wireless. The optimal choice to start." icon="star" >}}
-  {{< card link="https://eh.works/hpd" title="High Plains Drifter" subtitle="60%, wired, tented case, modular system. For those who want maximum ergonomics right away." icon="adjustments" >}}
+  {{< card link="https://eh.works/hpd" title="High Plains Drifter" subtitle="60%, wired, curved case, modular system. For those who want maximum ergonomics right away." icon="adjustments" >}}
   {{< card link="https://eh.works/imperial44" title="Imperial44" subtitle="40%, wired or wireless. For those ready for compactness." icon="chip" >}}
 {{< /cards >}}
 
@@ -176,8 +176,8 @@ flowchart TD;
     First[Is this your first split?] -- Yes --> Q3
     First -- No --> Second
 
-    Second(Do you want a 40% or 60% layout?) -- 40% --> Q4(Do you want a tented case?)
-    Second -- 60% --> Q3(Do you want a tented case?)
+    Second(Do you want a 40% or 60% layout?) -- 40% --> Q4(Do you want a curved case?)
+    Second -- 60% --> Q3(Do you want a curved case?)
 
     Q3 -- No --> K03[K:03]
     Q3 -- Yes --> HPD[High Plains Drifter]
