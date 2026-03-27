@@ -5,7 +5,7 @@ layout: landing
 
 ## 2026
 
-- [ ] Trackball Royale
+- [x] Trackball Royale
 - [ ] Project "Modular minds"                                          
 - [ ] Expo                                                               
 - [ ] New switches                                              
