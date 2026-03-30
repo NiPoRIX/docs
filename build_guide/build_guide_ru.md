@@ -37,7 +37,7 @@ sidebar:
 
 ### Основные компоненты
 
-{{% details title="RP2040-Zero" closed="true" %}}
+{{% details title="Контроллер RP2040-Zero" closed="true" %}}
 **Назначение:** контроллер и «мозг» устройства.
 
 Что важно:
@@ -48,18 +48,20 @@ sidebar:
 **Изображение:** добавить позже.
 {{% /details %}}
 
-{{% details title="USB 3.1 Type-C Female Socket Connector Replacement 16 Pin Test PCB Board Adapter" closed="true" %}}
+{{% details title="Разъём USB Type-C на плате-адаптере" closed="true" %}}
 **Назначение:** плата-переходник / разъём USB Type-C.
 
 Что важно:
 - используется как элемент подключения;
 - нужен именно вариант с 16 pin test PCB board adapter;
-- перед финальной публикацией стоит проверить точное название и при необходимости сократить его до более читаемого формата.
+- в самой инструкции лучше показывать короткое и понятное название, а полное техническое — держать как справочную подпись.
 
 **Изображение:** добавить позже.
+
+> Точное техническое название: `USB 3.1 Type-C Female Socket Connector Replacement 16 Pin Test PCB Board Adapter`
 {{% /details %}}
 
-{{% details title="Диод 1N4148" closed="true" %}}
+{{% details title="Диоды 1N4148" closed="true" %}}
 **Назначение:** диоды в матрице клавиатуры.
 
 Что важно:
