@@ -193,11 +193,11 @@ sidebar:
 
 Ниже — визуализация этого этапа.
 
-<img src="/images/hpd-build/prep-1.png" alt="Hot-swap сокет и свитч перед установкой" />
+<img src="https://raw.githubusercontent.com/NiPoRIX/docs/main/static/images/hpd-build/prep-1.png" alt="Hot-swap сокет и свитч перед установкой" />
 
-<img src="/images/hpd-build/prep-2.png" alt="Свитчи установлены в корпус" />
+<img src="https://raw.githubusercontent.com/NiPoRIX/docs/main/static/images/hpd-build/prep-2.png" alt="Свитчи установлены в корпус" />
 
-<img src="/images/hpd-build/prep-3.png" alt="Hot-swap сокеты установлены на свитчи в корпусе" />
+<img src="https://raw.githubusercontent.com/NiPoRIX/docs/main/static/images/hpd-build/prep-3.png" alt="Hot-swap сокеты установлены на свитчи в корпусе" />
 </details>
 
 2. **Подготовьте корпусные детали**  
