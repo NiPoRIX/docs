@@ -174,12 +174,31 @@ sidebar:
 
 ## Порядок сборки
 
-Ниже собран новый, более наглядный каркас порядка сборки.  
-На каждом крупном этапе предусмотрено место под изображение.
+Ниже будет собираться пошаговое руководство по сборке.  
+У каждого пункта можно раскрыть описание и посмотреть изображения.
 
-1. **Подготовьте все детали и разложите их по группам**  
-   Разложите все комплектующие по категориям: корпусные детали, платы, электронные компоненты, крепёж и дополнительные элементы.  
-   **Место под изображение:** общий вид комплекта перед сборкой.
+<details>
+<summary><strong>1. Подготовка перед пайкой</strong></summary>
+
+Перед началом пайки важно подготовить детали и понять несколько базовых вещей.
+
+У диода есть две стороны: [катод](https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%82%D0%BE%D0%B4) и [анод](https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BE%D0%B4).
+Это важно запомнить сразу, потому что диоды нужно устанавливать правильной стороной.
+
+Что нужно сделать:
+- у каждого диода обрезать штырёк **анода**, оставив примерно **5–10 мм**;
+- **не выбрасывать** обрезанные штырьки — их нужно складывать отдельно, позже они понадобятся для пайки;
+- установить свитчи в корпус;
+- после этого аккуратно надеть hot-swap сокеты на контакты свитчей, чтобы подготовить всё к дальнейшей сборке.
+
+Ниже — визуализация этого этапа.
+
+<img src="https://1.downloader.disk.yandex.ru/preview/1fd5190e06e1ead7a206b9dfba69179ba4f002531979c218ad9524c9e50ce26a/inf/MtqymIgigzVN15XkFdbqqojffN1SDwll6nntHlYZ5Rwf7boKdBxBRdMmelisKXkB1JRAci5k8L-KbhbWTgA_kg%3D%3D?uid=1426529824&filename=IMG_20260318_102928_612.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1426529824&tknv=v3&size=2500x1293" alt="Подготовка диодов перед пайкой" />
+
+<img src="https://4.downloader.disk.yandex.ru/preview/520b2b835508ab4341ebab182c4227d852d93f04846c91272620c5d67879db41/inf/IgQfRsY00FcBEkGQfJiUewFjN7-LZVRwjfIcnizkhGs8Mv5Ygckrw6m3AmHe4C3mWUTlkftCS-Z1LJphRMf0ew%3D%3D?uid=1426529824&filename=IMG_20260319_155346_691.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1426529824&tknv=v3&size=2500x1293" alt="Установка свитчей в корпус" />
+
+<img src="https://2.downloader.disk.yandex.ru/preview/ebb8dca504994a87ec72c15e821c12a7e4905295469149670e880e84fa562408/inf/S8HvXDXWr0SES1SVSGRJYsMShkGkmf2hhqMzD1lRIznWNxjcVls5PDCLQZWBBSRZM8wPj0kTY0Xjr6Rtu9MMNw%3D%3D?uid=1426529824&filename=IMG_20260319_160052_507.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=1426529824&tknv=v3&size=2500x1293" alt="Подготовка свитчей и hot-swap сокетов" />
+</details>
 
 2. **Подготовьте корпусные детали**  
    На этом этапе подготовьте корпусные элементы к дальнейшей сборке.  
