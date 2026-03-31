@@ -320,10 +320,6 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 Если все клавиши работают — отлично, можно двигаться дальше.
 
-<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/firmware-test-bare.jpg" alt="Обе половинки клавиатуры без кейкапов перед тестом" />
-
-<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/firmware-test-wired.jpg" alt="Обе половинки с подключёнными проводами во время теста" />
-
 <details>
 <summary><strong>Возможные ошибки</strong></summary>
 
@@ -343,6 +339,12 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 Резисторы припаяны неправильно. Вернись к шагу 3 и проверь: на левой половинке резистор идёт на 3V3, на правой — на GND.
 
 </details>
+
+---
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/firmware-test-bare.jpg" alt="Обе половинки клавиатуры без кейкапов перед тестом" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/firmware-test-wired.jpg" alt="Обе половинки с подключёнными проводами во время теста" />
 
 </details>
 
