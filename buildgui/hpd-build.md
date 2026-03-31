@@ -289,7 +289,21 @@ RP2040-Zero — это мозг клавиатуры. Сейчас нужно с
 
 > **Важно:** подбирай длину проводов так, чтобы RP-ZERO свободно двигалась и переворачивалась в корпусе в пределах отверстия для USB. Если провода окажутся короткими и натянутыми — они могут оборваться при сборке корпуса.
 
-<img src="https://raw.githubusercontent.com/NiPoRIX/docs/main/static/images/hpd-build/rp-zero-1.png" alt="Пайка контроллера RP-ZERO: итоговый вид" />
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/rp-zero-pinout.png" alt="Распиновка RP2040-Zero — номера пинов" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/rp-zero-wires-start.png" alt="Начало пайки проводов к контроллеру" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/rp-zero-wires-keyboard.png" alt="Провода подключены к столбцам и рядам" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/rp-zero-installed.png" alt="Контроллер установлен в корпус" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/usb-c-adapter.png" alt="USB Type-C адаптер — вид до пайки" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/usb-c-wires.png" alt="Провода припаяны к USB Type-C адаптеру" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/usb-c-rp-zero-connected.png" alt="USB адаптер подключён к контроллеру" />
+
+<img src="https://raw.githubusercontent.com/D19ital/docs/main/static/images/hpd-build/rp-zero-resistor-complete.png" alt="Итоговый вид: резистор и все провода припаяны" />
 
 </details>
 
