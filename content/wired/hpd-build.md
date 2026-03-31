@@ -1,8 +1,4 @@
----
-title: "High Plains Drifter v2 — руководство по сборке"
-sidebar:
-  exclude: true
----
+
 
 # High Plains Drifter v2 — руководство по сборке
 
